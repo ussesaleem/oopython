@@ -1,0 +1,26 @@
+body {
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
+article {
+    max-width: 60em;
+    padding: 2em;
+}
+
+figure {
+    width: 20em;
+    padding: 2em;
+}
+
+img {
+    width: 100%;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
